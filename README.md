@@ -20,7 +20,7 @@
 There are two projects in this repository 
 
 #web -- angular project
-#app -- springboot project
+
 
 ## Start angular_springboot project
 
