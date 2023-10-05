@@ -31,3 +31,31 @@ Run `ng serve` Navigate to `http://localhost:4200/`. The application will automa
 ## Start Spring boot project
 
 mvn spring-boot:run or run main file MainApplication.java
+
+## Application Walkthrough
+
+### Register Screen 
+![image](https://github.com/nithinTest10/bcbsm-youngsoft-fullstack-developer-candidate-exercise-4/assets/146797806/84b0a69d-8ae9-4e0a-a22f-4b796667658b)
+
+### Login Screen 
+A user with username "abc" has been created.
+![image](https://github.com/nithinTest10/bcbsm-youngsoft-fullstack-developer-candidate-exercise-4/assets/146797806/512fad25-65bb-44ae-9b8d-999896da7f67)
+
+### Home Screen 
+![image](https://github.com/nithinTest10/bcbsm-youngsoft-fullstack-developer-candidate-exercise-4/assets/146797806/dd66f872-0420-4238-aede-e5947b18c2f1)
+
+### Upload Screen
+![image](https://github.com/nithinTest10/bcbsm-youngsoft-fullstack-developer-candidate-exercise-4/assets/146797806/85746985-df5f-4df3-9dc9-fc9aa1d590b4)
+
+### Documents Screen 
+![image](https://github.com/nithinTest10/bcbsm-youngsoft-fullstack-developer-candidate-exercise-4/assets/146797806/5e7acbfa-e1f3-42f4-a43c-8b85dc8a35fa)
+
+Here a user can click on download and also delete based on the operation user want to perform. 
+
+Here is output of the compressed file which was stored in database
+![image](https://github.com/nithinTest10/bcbsm-youngsoft-fullstack-developer-candidate-exercise-4/assets/146797806/b8da41fa-03b0-4837-8731-72884e488864)
+
+
+
+
+
