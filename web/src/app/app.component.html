@@ -1,0 +1,15 @@
+<div class="container" style="text-align: center" [hidden]="!isUserLoggedIn()">
+
+<div style="left: 50px;">
+    <button type="button" class="btn" [routerLink]="['/home']">Home</button>
+    <button type="button" class="btn" [routerLink]="['/fileupload']">Upload File </button>
+    <button type="documents" class="btn"  [routerLink]="['/docs']">Documents</button>
+    <button type="button" class="btn"  (click)="logout()">Logout</button>
+</div>
+
+<div>
+<br><br>
+   <h3> Hello  {{ user }} </h3>
+</div>
+</div>
+<router-outlet></router-outlet>
