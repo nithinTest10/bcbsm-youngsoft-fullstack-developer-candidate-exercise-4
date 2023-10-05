@@ -26,4 +26,44 @@ public class FileItem {
     private LocalDateTime uploadDate;
 
     private ObjectId fileData;
+
+    public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+	public String getUserId() {
+		return userId;
+	}
+
+	public void setUserId(String userId) {
+		this.userId = userId;
+	}
+
+	public String getFileName() {
+		return fileName;
+	}
+
+	public void setFileName(String fileName) {
+		this.fileName = fileName;
+	}
+
+	public LocalDateTime getUploadDate() {
+		return uploadDate;
+	}
+
+	public void setUploadDate(LocalDateTime uploadDate) {
+		this.uploadDate = uploadDate;
+	}
+
+	public ObjectId getFileData() {
+		return fileData;
+	}
+
+	public void setFileData(ObjectId fileData) {
+		this.fileData = fileData;
+	}
 }
